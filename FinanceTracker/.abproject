@@ -1,0 +1,40 @@
+{
+  "ProjectName": "FinanceTracker",
+  "ProjectGuid": "c0d98a47-69d3-4b39-9bd7-d14b210f3c90",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.FinanceTracker",
+  "DisplayName": "FinanceTracker",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{4014d899-492e-4339-9850-934f723453c7}",
+  "WP8ProductID": "{91f230a1-47b9-4425-b2d1-5b402d96f4d4}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.FinanceTracker",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
